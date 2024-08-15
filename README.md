@@ -14,7 +14,7 @@
 <h2 align="center" style="color: #44AEFB">🌟 About Me 🌟</h2>
 
 🎓 **Education:**  
-I am currently pursuing a B.Tech in Computer Science, focusing on software development and web design. My academic background has given me a solid foundation in programming, problem-solving, and the latest web technologies.
+I have completed my B.Tech in Computer Science, focusing on software development and web design. My academic journey has provided me with a solid foundation in programming, problem-solving, and the latest technologies. I am now actively seeking job opportunities to apply my skills and contribute to innovative projects.
 
 💻 **Developer Journey:**  
 As a passionate Python developer, I've dedicated my time to mastering Python and its vast ecosystem. I enjoy creating clean, efficient code and have a knack for solving complex problems. My journey has led me to explore various frameworks like Django, Flask, and REST APIs, which I'm currently diving deeper into.
