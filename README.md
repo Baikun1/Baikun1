@@ -1,9 +1,10 @@
-
-
 <h1 align="center">Hi 👋, I'm Baikuntha Behera</h1>
-<h3 align="center">💻💻 A passionate Python Developer 💻💻</h3>
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" width="350"/>
+<img align="center" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" alt="Baikuntha Behera Banner" width="100%" />
+
+<h3 align="center">💻💻 A passionate Python Developer 💻💻</h3>
+<!-- Banner Image -->
+
 
 
 <p align="left">
@@ -16,6 +17,7 @@
 
 🎓 **Education:**  
 I have completed my B.Tech in Computer Science, focusing on software development and web design. My academic journey has provided me with a solid foundation in programming, problem-solving, and the latest technologies. I am now actively seeking job opportunities to apply my skills and contribute to innovative projects.
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" width="350"/>
 
 💻 **Developer Journey:**  
 As a passionate Python developer, I've dedicated my time to mastering Python and its vast ecosystem. I enjoy creating clean, efficient code and have a knack for solving complex problems. My journey has led me to explore various frameworks like Django, Flask, and REST APIs, which I'm currently diving deeper into.
@@ -103,6 +105,7 @@ When I'm not coding, you might find me exploring new tech trends, reading about 
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="30" width="40" />
   </a>
 </p>
+
 
 ---
 
